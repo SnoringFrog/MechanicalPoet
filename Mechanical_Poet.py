@@ -14,6 +14,11 @@
 
 # The author can be contacted at catherine.moresco@gmail.com
 
+# Modified by Ethan "SnoringFrog" Piekarski
+# For explanation of changes, see changelog.md
+# Original program available at https://github.com/catherinemoresco/MechanicalPoet
+
+
 import random
 
 alphabet = map(chr, range(ord('A'), ord('Z')+1) + [ord("'")])
